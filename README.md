@@ -8,7 +8,7 @@ To install Lockbox, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/AhmadAbdelrazik/LockBox
    ```
 
 2. Navigate to the project directory:
